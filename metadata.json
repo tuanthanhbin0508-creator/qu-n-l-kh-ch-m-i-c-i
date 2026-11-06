@@ -1,0 +1,6 @@
+{
+  "name": "QUẢN LÝ KHÁCH MỜI",
+  "description": "Ứng dụng quản lý khách mời và chi tiêu đám cưới chuyên nghiệp, bảo mật chuẩn ngân hàng, kết nối Google Sheets, in ấn A4 và xuất Excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
